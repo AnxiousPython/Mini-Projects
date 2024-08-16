@@ -1,2 +1,1 @@
-﻿# Mini-Projects
-# My own mini projects that uses basic html css and javascript
+# Mini projects that uses basic html css and javascript
